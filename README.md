@@ -12,6 +12,8 @@ Utilizando HMLT e CSS retorne uma página estática que contenha uma lista de no
 
 # Envio do teste
 
+Data de entrega 13/01/2023 até as 18hr.
+
 Ao finalizar, deve ser feito um PR (pull request) para este repositório contendo o seu nome e suas modificações para que seja feita a avaliação.
 
 # Avaliação
