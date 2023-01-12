@@ -22,4 +22,4 @@ Irá ser avaliado: Seu conhecimento técnico, sua habilidade para resolver probl
 
 Quanto ao design fique livre para criar, no entanto todos os dados devem ser exibidos conforme é mostrado no seguinte exemplo:
 
-![alt text](/example.png)
+![alt text](https://github.com/thiagoorodrigues/teste-dev-junior/blob/master/exemple.png)
