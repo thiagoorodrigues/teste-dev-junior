@@ -2,7 +2,7 @@
 
 Relembrando os bons tempos da nossa infância vamos desenvolver o famoso jogo de cartas super trunfo.
 
-Pegando uma brecha da copa do mundo nosso teste será baseado em jogadores de futebol.
+Pegando uma brecha da copa do mundo, o nosso teste será baseado em jogadores de futebol.
 
 Utilizando HMLT e CSS retorne uma página estática que contenha uma lista de no mínimo 5 cartas com os seguintes atributos: `Foto, Nome, Partidas Disputadas, Vitórias, Gols Marcados e Ano de Nascimento`
 
